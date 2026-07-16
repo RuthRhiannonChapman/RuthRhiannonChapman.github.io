@@ -6,7 +6,7 @@ subtitle: Postdoctoral Research Officer, Grantham Research Institute on Climate 
 
 profile:
   align: right
-  image: RRC_profile.jpg
+  image: RRC_profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     
