@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral Research Officer</a>, Grantham Research Institute on Climate Change and the Environment, The London School of Economics and Political Science. ruth.rhiannon.chapman@gmail.com and r.chapman1@lse.ac.uk
+subtitle: Postdoctoral Research Officer, Grantham Research Institute on Climate Change and the Environment, The London School of Economics and Political Science. ruth.rhiannon.chapman@gmail.com and r.chapman1@lse.ac.uk
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: RRC_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     
