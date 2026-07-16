@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently working as a postdoctoral Research Officer at the Grantham Research Institute for Climate Change and the Environment at the London School of Economics and Political Science. I am working with Professor Dave Stainforth on the project RobustAssess within the ARIA Forecasting Tipping Points Programme, following a previous postdoctoral research position at the Niels Bohr Institute in Copenhagen. My current work is focused on ensemble design for uncertainty quantification in the context of climate tipping points and using conceptual dynamical systems models to explore perturbed parameter ensembles. My PhD, supervised by Professor Peter Ashwin (University of Exeter) and Dr Richard Wood (UK Meteorological Office Hadley Centre), involved quantifying noise from CMIP6 models to inform a study of noise-induced tipping in an AMOC conceptual model. During my PhD, I was also able to develop my teaching and complete a teaching assessment, resulting in an associate fellowship of the Higher Education Academy. I have recently been awarded a SIAM postdoctoral support grant of $15,000 to carry out an extended research visit with Professor M.K.Cameron at the University of Maryland in 2026, working on quasipotentials and transition paths in conceptual climate models. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[LinkedIn](https://www.linkedin.com/in/ruth-chapman-ba5191202/)
+[ORCID](https://orcid.org/0000-0002-7927-325X)
